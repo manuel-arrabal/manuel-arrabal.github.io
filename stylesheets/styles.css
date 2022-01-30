@@ -54,6 +54,13 @@ a:hover small {
   color:#777;
 }
 
+.avatar {
+  height:300px;
+  border-radius: 50%;
+  line-height: 1px;
+  box-shadow: 0 0 0 1px rgba(24, 28, 33, 0.15);
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
