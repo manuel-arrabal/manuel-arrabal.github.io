@@ -2,7 +2,6 @@ README.md
 ---------------
 ## Author
 Manuel Arrabal
-[Personal webpage](https://arrabal.vinegla.com/)
 
 ## Description
 A professional experience page
