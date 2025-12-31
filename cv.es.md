@@ -10,7 +10,7 @@
 ### Head of Data & Product Intelligence @ [CHECK24](https://www.check24.es/)  
 *Dic 2019 – Presente, MADRID*
 
-Jefe de Inteligencia de Datos y Producto con más de 15 años de experiencia liderando y escalando productos que conectan tecnología, datos y negocio. Dirijo equipos multidisciplinares para convertir datos en decisiones, IA en productos y estrategia en resultados medibles.
+Head of Data & Product Intelligence con más de 15 años de experiencia liderando y escalando productos que conectan tecnología, datos y negocio. Dirijo equipos multidisciplinares para convertir datos en decisiones, IA en productos y estrategia en resultados medibles.
 
 **Responsabilidades clave**  
 - Definir y liderar la estrategia de datos e inteligencia de producto en la compañía  
