@@ -10,5 +10,8 @@ A professional experience page
 The content displayed on the website is the intellectual property of the author. You may not reuse, republish, or reprint such content without his written consent
 
 ## License
-This code is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This project is licensed under the **MIT License**.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the conditions of the MIT License.
+
+See the `LICENSE` file for more details.
