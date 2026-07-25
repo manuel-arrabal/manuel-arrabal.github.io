@@ -7,10 +7,22 @@
 
 ## 💭💻🚀 Experiencia
 
-### Head of Data & Product Intelligence @ [CHECK24](https://www.check24.es/)  
+### VP de Producto @ [iAhorro.com](https://www.iahorro.com/)  
 *Dic 2019 – Presente, MADRID*
 
-Head of Data & Product Intelligence con más de 15 años de experiencia liderando y escalando productos que conectan tecnología, datos y negocio. Dirijo equipos multidisciplinares para convertir datos en decisiones, IA en productos y estrategia en resultados medibles.
+Lidero la estrategia de producto del principal asesor hipotecario de España. Trabajo junto al equipo ejecutivo para convertir objetivos de negocio en productos que generen crecimiento sostenible, alineando la estrategia, las métricas y la ejecución.
+
+**Responsabilidades clave**  
+- Definir la visión y la estrategia de producto
+- Priorizar iniciativas con impacto real en negocio
+- Crear una organización de producto de alto rendimiento
+- Utilizar datos e inteligencia artificial para tomar mejores decisiones
+
+
+### Head of Data & Product Intelligence @ [CHECK24](https://www.check24.es/)  
+*Dic 2019 – Jun 2026, MADRID*
+
+Responsable de la estrategia de datos y de la aplicación de inteligencia artificial en toda la organización. Más que construir dashboards, el objetivo era construir criterio.
 
 **Responsabilidades clave**  
 - Definir y liderar la estrategia de datos e inteligencia de producto en la compañía  
