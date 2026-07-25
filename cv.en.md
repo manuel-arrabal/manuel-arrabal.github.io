@@ -1,6 +1,6 @@
 # Manuel Arrabal
 
-_Head of Data & Product Intelligence @ CHECK24 ES based in Madrid, Spain_ <br>
+_VP of Product @ iAhorro based in Madrid, Spain_ <br>
 
 [✉ Email](mailto:marrabal@gmail.com) / [🌎 Website](https://arrabal.vinegla.com/) / [💼 LinkedIn](https://www.linkedin.com/in/manuel-arrabal-vinegla/) / [💻 GitHub](https://github.com/manuel-arrabal)
 
