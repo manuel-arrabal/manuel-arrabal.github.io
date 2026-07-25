@@ -8,10 +8,21 @@ _Head of Data & Product Intelligence @ CHECK24 ES based in Madrid, Spain_ <br>
 
 ## 💭💻🚀 Experience
 
-### **Head of Data & Product Intelligence** @ [CHECK24](https://www.check24.es/)  
+### *VP of Product** @ [iAhorro.com](https://www.iahorro.com/)  
 _Dec 2019 – Present, MADRID_  
 
-Head of Data & Product Intelligence with over 15 years of experience in leading and scaling products that bridge technology, data, and business. I lead multidisciplinary teams to turn data into decisions, AI into products, and strategy into measurable outcomes.  
+Responsible for the data strategy and the application of artificial intelligence across the entire organization. More than just building dashboards, the goal was to build judgment.
+
+**Key Responsibilities**  
+- Defining product vision and strategy
+- Prioritizing initiatives with real business impact
+- Building a high-performing product organization
+- Leveraging data and artificial intelligence to make better decisions
+
+### **Head of Data & Product Intelligence** @ [CHECK24](https://www.check24.es/)  
+_Dec 2019 – Jun 2026, MADRID_  
+
+Responsible for the data strategy and the application of artificial intelligence across the entire organization. More than just building dashboards, the goal was to build judgment.
 
 **Key Responsibilities**  
 - Define and drive the data and product intelligence strategy across the company  
